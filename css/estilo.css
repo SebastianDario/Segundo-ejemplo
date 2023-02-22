@@ -1,0 +1,16 @@
+.bg-body-tertiary{
+    background-color: rgb(77, 77, 129) !important;
+    color: white;
+}
+.bg-body-secondary{
+    background-color: rgb(43, 43, 56) !important;
+    color: white;
+}
+.bg-body-secondary1{
+    background-color: blueviolet !important;
+    color: white;
+}
+.hola{
+    background-color: white;
+    color: black;
+}
